@@ -1,0 +1,6 @@
+pandas
+geopy
+black
+pytest
+pytest-cov
+pylint
