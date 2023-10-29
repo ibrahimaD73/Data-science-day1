@@ -4,3 +4,5 @@ black
 pytest
 pytest-cov
 pylint
+click
+loguru
